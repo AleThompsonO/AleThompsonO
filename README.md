@@ -6,24 +6,21 @@
 <sup>1st place. Awarded by the President of Bolivia, 2021</sup></sub>
 </p>
 
-- 🔭 I am currently working on **strengthening my skills to be a data scientist and looking for a job that will allow me to achieve that dream**.
+🔭 I am currently working as a Tableau Developer at Ciudata, designing and building 150+ geospatial dashboards, while also strengthening my expertise in Power BI, SQL, and Databricks to advance toward my long-term goal of becoming a Data Scientist.
 
-- 🌱 I’m currently learning **how to make visualizations more effective in Power BI and Tableau and learning more about Machine Learning**
+🌱 I’m actively learning Machine Learning, Deep Learning, and advanced statistics as part of my M.Sc. in Data Science at Universidad Técnica de Oruro. At the same time, I’m refining my skills in data modeling, ETL processes, and effective visual storytelling.
 
-- 👯 I’m looking to collaborate on **different projects related to data analysis and data science related to business.**
+👯 I’m looking to collaborate on data analytics and BI projects that connect business insights with technology, especially in areas like finance, marketing, and environmental initiatives.
 
-- 🤝  I am looking for help to **increase my network and participate in different data projects**.
+🤝 I am open to networking and partnerships to participate in international projects, contribute to open-source, and share knowledge with the data community.
 
-- 👨‍💻 Some of my projects are available at [https://www.novypro.com/profile_about/alejandrothompson](https://www.novypro.com/profile_about/alejandrothompson)
+📝 I regularly explore and write about data science, visualization best practices, BI strategy, and programming.
 
-- 📝 I regularly read articles on data science, strategy, data articles, visualization, and programming.
+💬 Ask me about Business Intelligence, Data Analytics, Marketing, Finance, Entrepreneurship, and Strategy — all through the lens of data.
 
-- 💬 Ask me about **Business, Marketing, Finance, Environment, Sales, Entrepreneurship, Strategy, All based on data analysis**
+📫 How to reach me: alejandrothompson@gmail.com
 
-- 📫 How to reach me **alejsndrothompson@gmail.com**
-
-- ⚡ Fun fact **I think soccer is one of the best ways to learn about life, strategy, social skills, relationships, and business.**
-
+⚡ Fun fact: As a semi-pro footballer, I believe soccer teaches invaluable lessons about teamwork, strategy, and leadership — skills I bring into data projects too.
 <h3 align="left">Get to know me a little more and connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alejandro-thompson-oporto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-thompson-oporto/" height="30" width="40" /></a>
